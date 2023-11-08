@@ -1,7 +1,7 @@
 # packer-aws
 sample packer template for building ubuntu images
 
-****Connect to AWS ****
+**Connect to AWS Account**
 aws configure 
 
 **Build**
