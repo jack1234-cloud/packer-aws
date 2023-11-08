@@ -1,10 +1,10 @@
 # packer-aws
 sample packer template for building ubuntu images
 
-**##Connect to AWS **
+****Connect to AWS ****
 aws configure 
 
-**##Build**
+**Build**
 packer init
 packer fmt
 packer build -var-file=env-config/dev.pkrvars..hcl .
